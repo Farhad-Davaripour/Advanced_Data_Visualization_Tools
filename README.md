@@ -6,7 +6,7 @@
 * * *
 This hands on practice lab is a part of [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?) course offered by [Coursera.org](https://www.coursera.org/).
 
-The present hands on lab mainly uses [Immigration to Canada dataset](https://developer.ibm.com/exchanges/data/all/airline/) and employs the following advanced visualization tools to display relations between features within the dataset: 
+The present hands on lab mainly uses [Immigration to Canada dataset](https://developer.ibm.com/exchanges/data/all/airline/) and employs the following advanced visualization tools to display relations between features within the dataset:   
 ✓ Bubble plot  
 ✓ Waffle chart  
 ✓ Word cloud  
