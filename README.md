@@ -1,6 +1,7 @@
-## Hands-on Practice Learning Lab for Data Science
+## Hands-on Practice Learning Lab for Data Science   
 
-![image](image.png)
+<center><img src="image.png"/></center>
+
 ### Overview
 * * *
 This hands on practice lab is a part of [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?) course offered by [Coursera.org](https://www.coursera.org/).
