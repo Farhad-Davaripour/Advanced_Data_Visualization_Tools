@@ -1,6 +1,6 @@
-## Hands-on Practice Learning Lab for Data Science   
+## Hands-on Practice Learning Lab for Data Science
 
-<center><img src="image.png"/></center>
+![image](WordCloud.png)
 
 ### Overview
 * * *
