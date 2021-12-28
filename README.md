@@ -7,13 +7,13 @@
 This hands on practice lab is a part of [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?) course offered by [Coursera.org](https://www.coursera.org/).
 
 The present hands on lab mainly uses [Immigration to Canada dataset](https://developer.ibm.com/exchanges/data/all/airline/) and employs the following advanced visualization tools to display relations between features within the dataset: 
-✓ Bubble plot
-✓ Waffle chart
-✓ Word cloud
-✓ Map plot using Folium
-✓ Choropleth plot using Folium
-✓ Sunburst plot using Plotly
-✓ Treemap plot using Plotly
+✓ Bubble plot  
+✓ Waffle chart  
+✓ Word cloud  
+✓ Map plot using Folium  
+✓ Choropleth plot using Folium  
+✓ Sunburst plot using Plotly  
+✓ Treemap plot using Plotly  
 
 
 ✓ Link to the Immigration to Canada dataset: [Link](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/Canada.xlsx)  
