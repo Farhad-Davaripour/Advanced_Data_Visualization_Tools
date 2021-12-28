@@ -1,5 +1,6 @@
 ## Hands-on Practice Learning Lab for Data Science
 
+![image](image.png)
 ![image](DataVisualization.png)
 
 ### Overview
