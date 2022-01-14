@@ -2,7 +2,7 @@
 
 ![image](WordCloud.png)
 
-### Overview
+### Overview 
 * * *
 This hands on practice lab is a part of [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?) course offered by [Coursera.org](https://www.coursera.org/).
 
